@@ -22,5 +22,3 @@ The goal is to demonstrate orchestration logic rather than production infrastruc
 - File-based storage
 - Data orchestration concepts
 
-## Note
-This project focuses on system understanding and orchestration concepts.
